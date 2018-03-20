@@ -6,11 +6,11 @@ These are provided as is, without any warranty
 
 Usage guidelines:
 
-(1) Don't do evil
+(1) Be kind and don't do evil
 
 (2) This is open-source, don't put an IP on it. Consider making open-source any programs using it
 
-(3) Spotted a mistake or better way of writing up? Contribute!
+(3) Spotted a mistake or a better way of writing up? Contribute!
 
 ---------------------------
 
