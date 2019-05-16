@@ -23,4 +23,4 @@ The tools:
 Arthur Valencio
 
 (Thanks CNPq (Brazilian Ministry of Science) for giving me a scholarship when I first came up with this repository)
-(Thanks Fapesp (S. Paulo Scientific Foundation) for my current fellowship)
+(Thanks Fapesp (S. Paulo Research Foundation) for my current fellowship (grant #2018/09900-8) and Fapesp RIDC NeuroMat (grant 2013/07699-0))
