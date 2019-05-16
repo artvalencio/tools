@@ -17,7 +17,7 @@ Usage guidelines:
 The tools:
 
 * memmonitor.m: Matlab function to inform current memory usage (in Gb) for Ubuntu users
-
+* mpneuron.m: McCulloch-Pitts neuron model. The most basic biological neuron model, but also the backbone of artificial neuron modelling schemes.
 
 --------------------------
 Arthur Valencio
